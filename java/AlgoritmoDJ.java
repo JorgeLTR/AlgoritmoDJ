@@ -16,6 +16,8 @@ class AlgoritmoDJ{
      */
     private void start(){
         System.out.println("[OK] starting . . .");
+        System.out.println("Hola");
+        System.out.println("Iniciando el algoritmo Dijkstra's");
     
     } 
     public static void main(String[] args) {
